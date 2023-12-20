@@ -1,0 +1,15 @@
+FIREBASE_SERVICE_ACCOUNT_WAIKIKI_WEBSITE
+
+{
+  "type": "service_account",
+  "project_id": "waikiki-website",
+  "private_key_id": "a122bd0cdba5bbe42e45c691e66cd963c396db12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXJfoDuKg52MIF\nIXqE6PXEWpipPEIo6FJfcsNOmfTLnH69/CKneDTUkw43xKe9HkvwPljy2p0SImpu\nOD/S2rQkab6olp4MvLisWgodpVm3+xvPSgiPnbIUzWp9QK9W8SWJJx1+NamVQh33\n2PaZ9xzSR5OKU8SBhcyB4f6W55EmR5FPw2c0anVOqX7+swd4Xcyy9kff4CWCLxUo\n9tI92gcfNl8jjeWz4UZ8jOGEJWOfMxhYQ0tKWN5WmjOvkFQYWIbvHrf1ksXGOL+K\nQm3E7V77BG5ObZWvVyKA8rNDlIVmnXGsNCStWZJewOT5i8HEqzlbhAWdTFT6fx/M\n0zN9m4ybAgMBAAECggEACTArLLnX9Acl8Lp8yoH5GPvLgD1oD+otYREmy8u3EMkB\nVVNtbByDQ77Mq89fYIFo5HzX0fX0dkqiTqG4AWUWA2YWs97MJ3wZy5aEJGmkMBTD\nxnGsIEIE/G7HXkutu/dMJJQskMVxlW5qQY7yUndOCPbwk0bqN06DrNpTbpYQygMk\nCag9x54z7XHX+7ErKbOOqZpjuuovhbu8W1jv7WzARzNBZzqjF3vv68pirLLFM72G\nfuXgTK1dQzfQMqns92u1vm3XawAtgnMK9cg31hyekA24plh5L3ggWyfzzczo/Ep1\n2sC1uW4wO2rKixDSJ03E02OvyFcYbzpyrCCyWl9wIQKBgQD0O+BqZmXDxG2R/5pn\nDGEdvYwjnw0LX25Eot7fc7mrUKzyOuLP90V4RtluVFhfs/gbWqY+qKVhXVFDzsxM\nv9b/CVZVKAx9cr0+voGpXcr0rYsUVaXLJs2Ne2S4C8kEiYU20SPNUEJCspdKNKpk\nDEC73eG8IyC1w71k3kfhqncq4QKBgQDhg2O3p1B0Sh8itvISS2O3xUCtPhK1Kfh+\niBQ0H+fjzpRYopnj7AvzzAdngHbY+WrdXY751JJ1fxf+qs3pEa3sQRq8NfCz/Gqm\nqfR7E8/1En9uPaTBrnuai3q3S8qT6oPEJJjfZGqXjkAzUW5rDECWLBsB3yFaP7dL\n/bWMawbC+wKBgQCarMUOfXUbi24dFXSSqItky2NSN+uJ9VEfVMqzV1YSAhDVg6eb\nL62mY7BWKEKjsZWCtWEts56xT+kkeXZ3cNNXR3GOksN+O0lQ0FPLkGP1m2bGZQuP\n4i4x2SDLUmNnZTShp8f1wkuEdBhOXZY/sGba08WfYdvYYXOzyvZZG51G4QKBgEmH\n5ubGJmSUmoxeLJYsgMo2Bf23BLCPi9fuFPBeCuVrwVEZS6ZWnBsVRsDH0Xiz8tVV\nIT5ywoKPO0qtdNBvFE+5drcxu1dkkX3gYrgS4LbfHi/a57LDasgcfJnxm48ZY3d8\nG2CTxHHAT0ysW52J9DFDFldI4v4jUmfzxNORPjYrAoGBAPKxJ/ufpwclwEzeQldB\n0fhwD1By4yqcn5rujjdkwYLP0l1/4AceSVdNJrALU7bzeRHPNIVuYnGVMySzaoLe\nY7fSFopa0Lxw2xmG2lGf0trAUUABNwUjCLDtJV78bPSNHhpN5zQSFhZq0j/72Qb2\n8TYfqa+NHDQN1GXFeEmyGmrU\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-action-605244411@waikiki-website.iam.gserviceaccount.com",
+  "client_id": "115125258359830573754",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-action-605244411%40waikiki-website.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
