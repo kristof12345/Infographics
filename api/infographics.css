@@ -1,0 +1,62 @@
+@media (min-width: 1921px) {
+    .InfographicEditor-Contents {
+        zoom: calc(1920 / (1920 - 940));
+        margin-left: -50%;
+    }
+
+    #container {
+        height: 5260px !important;
+        overflow: hidden;
+    }
+}
+
+@media (min-width: 941px) and (max-width: 1920px) {
+    .InfographicEditor-Contents {
+        transform: perspective(100vw) translateZ(calc(100vw - 940px)) !important;
+        transform-origin: top;
+    }
+
+    body.safari .InfographicEditor-Contents {
+        zoom: 2;
+        margin-left: -235px;
+    }
+
+    #container {
+        height: calc(284vw + 30px) !important;
+        overflow: hidden;
+    }
+}
+
+@media (max-width: 940px) {
+    #container {
+        height: calc(284vw + 30px) !important;
+        overflow: hidden;
+    }
+}
+
+.NRClxyZCkwwwIzeumFUbJ,
+._23VQC6YyKbH6kkot64uxUc,
+._31CEeBztZQ2ewKQUbZHB0d,
+.sc-eggNIi,
+.sc-gyUeRy {
+    display: none !important;
+}
+
+#container,
+._2HQUG3tQIsATBJ4ZkzI3rO,
+._3HNZw7hirS26UKOfPqgflx {
+    padding: 0px !important;
+    background-color: white !important;
+}
+
+#header- {
+    height: 70px;
+    width: 100%;
+    background-color: #0071BC;
+}
+
+#footer- {
+    height: 100px;
+    width: 100%;
+    background-color: #0071BC;
+}
